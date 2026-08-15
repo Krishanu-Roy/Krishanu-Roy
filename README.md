@@ -2,7 +2,7 @@
 <h3 align="center">Backend & Data Engineer | Building APIs, Data Pipelines & ML Systems</h3>
 
 <p align="center">
-  <a href="https://twitter.com/KrishanuRoy_07"><img src="https://img.shields.io/twitter/follow/KrishanuRoy_07?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
+  <a href="[https://twitter.com/KrishanuRoy_07](https://x.com/Krishan02482510)"><img src="https://img.shields.io/twitter/follow/KrishanuRoy_07?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
 </p>
 
 ---
