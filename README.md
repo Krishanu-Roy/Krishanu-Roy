@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering, [Kalinga Institute of Industrial Technology (KIIT)](https://kiit.ac.in/), Bhubaneswar
-- 💼 Currently at **Pine Labs**, based in **Bangalore** — working in **FinTech & Digital Payments** (UPI, prepaid cards, KYC, RBI reporting)
-- 🛠️ I work across **backend engineering, APIs, data engineering, and ML/AI**
+- 💼 Currently at [**Pine Labs**](https://www.pinelabs.com/prepaid-solutions), based in **Bangalore** — working in **FinTech & Digital Payments** (UPI, prepaid cards, KYC, RBI reporting)
+- 🛠️ I work across **backend engineering, APIs, data engineering, and ML/AI Solutions**
 - 🔧 Comfortable building things end to end — from a REST API and the data pipeline behind it, to the ML model consuming that data
 - 🌱 Currently sharpening my skills in **distributed data systems and applied ML**
 - 💬 Ask me about **backend architecture, APIs, data engineering, or ML/AI algorithms**
@@ -23,7 +23,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/KrishanuRoy_07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
+  <a href="https://x.com/Krishan02482510" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
   <a href="https://linkedin.com/in/krishanu-roy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
   <a href="https://kaggle.com/krishanuroy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="32" height="32" /></a>
   <a href="https://instagram.com/_krishanu__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a>
