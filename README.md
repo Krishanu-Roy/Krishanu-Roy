@@ -99,4 +99,4 @@
 
 ---
 
-<p align="center"><i>⭐ Feel free to explore my repos, drop a star, and reach out — always happy to connect and collaborate!</i></p>
+<p align="center"><i>⭐ Feel free to explore my repos, drop a star, and reach out to me — always happy to connect and collaborate!</i></p>
