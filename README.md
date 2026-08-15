@@ -24,8 +24,8 @@
 
 <p align="left">
   <a href="https://x.com/Krishan02482510" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
-  <a href="https://linkedin.com/in/krishanu-roy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
-  <a href="https://kaggle.com/krishanuroy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/krishanu-roy-145a36225/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
+  <a href="https://www.kaggle.com/krishanuroy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="32" height="32" /></a>
   <a href="https://instagram.com/_krishanu__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a>
 </p>
 
@@ -89,12 +89,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishanu-Roy&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanu-Roy&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanu-Roy&theme=radical&hide_border=true" />
 </p>
